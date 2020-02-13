@@ -1,0 +1,35 @@
+body {
+    color:red;
+}
+h1 {
+    color:yellowgreen;
+}
+h2 {
+    color:white;
+}
+body {
+    background-color:wheat;
+}
+.test-box {
+    border-left: 2px solid red;
+    border-right: 4px solid blue;
+    border-top: 6px solid orange;
+    border-bottom:8px solid black;
+}
+.test-box {
+    border: 2px solid red;
+    padding: 6px;
+    margin:20px;
+    background-color:yellow;
+}
+img {
+    float: left;
+}
+.future {
+    font-family:sans-serif ;
+}
+.hobbies {
+    font-family: 'Segoe UI';
+}
+
+
